@@ -1,6 +1,6 @@
 site_name: Style Guide
+site_url: http://localhost:8000
 nav:
   - Home: index.md
   - About: about.md
 theme: material
-
