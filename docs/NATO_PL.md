@@ -1,0 +1,3 @@
+---
+NATO in Poland
+---

@@ -2,5 +2,15 @@ site_name: Style Guide
 site_url: http://localhost:8000
 nav:
   - Home: index.md
-  - About: about.md
+  - Official Titles: titles.md
+  - Polish Officials and Institutions: Poland.md
+  - Geography: ToponymsAndEthnonyms.md
+  - Numbers and Currencies: numbers.md
+  - Banned Phrases: BannedPhrases.md
+  - Pronunciation: Pronunciation.md
+  - European Parties: EuropeanPoliticalParties.md
+  - Editorial Guidelines: EditorialGuidelines.md
+  - Punctuation: Punctuation.md
+  - Frequently Used Namestraps: Namestraps.md
+  - NATO in Poland: NATO_PL.md
 theme: material
