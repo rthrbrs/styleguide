@@ -14,3 +14,7 @@ nav:
   - Frequently Used Namestraps: Namestraps.md
   - NATO in Poland: NATO_PL.md
 theme: material
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
