@@ -224,10 +224,10 @@ The NSC includes:
 * Head of the Office of the President 
 * Director of the National Security Bureau
 
-**PLEASE NOTE:**
+???+ "NOTE"
 
-* Rada Bezpieczeństwa Narodowego = National Security Council
-* Biuro Bezpieczeństwa Narodowego = National Security Bureau
+    * Rada Bezpieczeństwa Narodowego = National Security Council
+    * Biuro Bezpieczeństwa Narodowego = National Security Bureau
 
 
 ## Other
