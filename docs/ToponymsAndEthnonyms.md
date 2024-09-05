@@ -10,6 +10,12 @@ Citizens of Kosovo may be refered to as **Kosovar** or **Kosovan**. The adjectiv
 
 * Kosovo President Vjosa Osmani
 
+# Luxembourg
+
+# The Philippines
+
+The adjective for people, offices, and institutions, etc., is **Philippine**.
+
 # Serbia
 
 Use **Serb** to refer to a person of Serbian ethnicity. Use the adjective **Serbian** to describe something related to Serbia or its language.
@@ -37,6 +43,6 @@ Mention the state or district and country when identifying locations in the Unit
     * Myanmar (adjective: Burmese)
     * Eswatini
     * North Macedonia
-    * (The) Czech Republic (_not_ Czechia)
-    * Turkey (Türkiye)
+    * (The) Czech Republic (_not_ ~~Czechia~~)
+    * Turkey (not ~~Türkiye~~)
 

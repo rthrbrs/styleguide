@@ -6,39 +6,38 @@ The following style guide standardizes the use of official titles in on-screen g
 
 ## Presidents and Vice-Presidents
 
+**Use the full version in namestraps**
+
 Write “President of [Country],” or use the short title if the full title is awkward or too long. 
 
 * President of Ukraine 
 * President of the European Parliament
 * President of the European Commission
 * President of the United States
-* President of France
 * Acting President of Myanmar
 * Xi Jinping, President of China
+* Kamala Harris, Vice President of the United States
 
-##### Use short and abbreviated forms in the news ticker:
+**Use short and abbreviated forms in the news ticker**
 
 * U.S. President
 * Polish President
 
 ## Prime Ministers and Heads of Government
 
-* Prime Minister of Poland
+**Use the full version in namestraps**
+
 * Polish Prime Minister
-* Deputy Prime Minister of Poland
-* Prime Minister of the United Kingdom
+* Polish Deputy Prime Minister
 * British Prime Minister
-* First Minister of Scotland
-* Chancellor of Germany
+* Scottish First Minister
 * German Chancellor
 
-##### Use short and abbreviated forms in the news ticker:
+**Use short and abbreviated forms in the news ticker**
 
 * Polish PM
 * British PM
 * U.K. PM
-* Scottish First Minister
-* German Chancellor
 
 ## Other Political Leaders and Heads of State
 
@@ -47,43 +46,49 @@ Write “President of [Country],” or use the short title if the full title is 
 * King Charles III
 * King Felipe VI
 * King Rama X of Thailand
+* Pope Francis
 
 ## Foreign Ministers and Defense Ministers
 
-Full and short titles are both acceptable in chyrons. Short titles are preferable where the full title is awkward or too long. Use American spelling (Defense).
-
-* Minister of Foreign Affairs of Poland
+* Polish Foreign Minister
 * Polish Foreign Minister
 * Polish Defense Minister
-* Foreign Secretary of the United Kingdom
-* U.K. Foreign Secretary
-* U.K. Defense Secretary
+* British Foreign Secretary
+* British Defense Secretary
 * U.S. Secretary of State (but _not_ U.S. ~~State Secretary~~)
 * U.S. Secretary of Defense
 * U.S. Defense Secretary
 * EU Foreign Policy Chief
 
-##### Use short and abbreviated forms in the news ticker. Do not abbreviate Defense Minister to DM.
+**Abbreviate titles in the news ticker:**
+
+* U.K. Foreign Secretary
+* Polish FM
+
+???+ note "Use American spelling"
+
+    Defense Minister, not ~~Defence~~ Minister
+
+**Use short and abbreviated forms in the news ticker. Do not abbreviate Defense Minister to DM.**
 
 * Polish FM
 * U.K. Defense Secretary
 
 ## Other Ministers and Cabinet Members
 
-* Minister of Finance
-* U.K. Finance Minister
+* British Finance Minister
 * Chancellor of the Exchequer
-* Secretary of the Interior
 * Interior Secretary
 * Secretary of Health and Human Services 
 * U.S. Health Secretary
-* Dariusz Piontkowski, State Secretary, Ministry of Education
+* Marek Gzik, State Secretary, Ministry of Science and Higher Education
 
 ## Diplomats and Embassies
 
-##### Diplomats
+### Diplomats
 * U.S. Ambassador **to Poland**
 * U.S. Ambassador **in Warsaw**
+* British Ambassador to Poland
 * Former U.S. Ambassador to Ukraine
 * Former Polish Consul in Afghanistan
 * Chinese Ambassador to the U.S.
@@ -93,43 +98,56 @@ Full and short titles are both acceptable in chyrons. Short titles are preferabl
 * Apostolic Nuncio to Poland
 * Andrzej Sadoś, Permanent Representative of Poland to the EU
 
-##### Embassies
+### Embassies
 * U.S. Embassy in Poland
 * Polish Embassy in the United States
 * Apostolic Nunciature to Poland
 
-If the adjectival form of a country’s name is awkward or obscure, write “Embassy of [country],” followed by the host capital or country:
+**If the adjectival form of a country’s name is awkward or obscure, write “Embassy of [country],” followed by the host capital or country:**
 
-* Embassy of Burkina Faso in Washington, DC (_not_ ~~Burkinabé~~ Embassy)
+* Embassy of Burkina Faso in Washington, D.C. (_not_ ~~Burkinabé~~ Embassy)
 * Embassy of Myanmar in Germany
 
-For the United Kingdom, use the adjective British, not U.K., outside the news ticker:
+**For the United Kingdom, use the adjective British, not U.K., outside the news ticker:**
 
 * British Ambassador to Poland
 * British Embassy in Poland
 
-Incorrect: Czech Ambassador to ~~the Vatican~~  
-Incorrect: ~~Belgium’s~~ Ambassador to Poland
+!!! failure "Note"
+
+    Incorrect: Czech Ambassador to ~~the Vatican~~  
+    Incorrect: ~~Belgium’s~~ Ambassador to Poland
 
 ## Members of Legislative Bodies
 
-* Polish Member of Parliament
-* Ukrainian Member of Parliament
-* Member of the European Parliament
-* U.S. Senator 
-* U.S. Representative
-* Jeremy Hunt MP
-* Yair Golan, Member of Knesset
-* Harini Amarasuriya, National People's Power Party MP, Sri Lanka
+**In namestraps, provide the country, position, and political party or bloc:
 
-##### Abbreviated forms may be used in the news ticker:
+* Polish MP, Civic Platform
+* Ukrainian MP, Servant of the People
+* Dariusz Joński, Polish MEP, EPP
+* U.S. Republican Senator 
+* U.S. Democratic Representative
+* Jeremy Hunt, British MP, Conservative
+* Benny Gantz, Member of Knesset, National Unity
+* Harini Amarasuriya, Sri Lankan MP, National People's Power Party
+
+**Use short and abbreviated forms in news ticker:**
 
 * Polish MP
 * Austrian MEP
-* U.S. Rep. Raja Krishnamoorthi
-* U.S. Sen. Tammy Duckworth
+* U.K. MP
+* U.S. Rep. Krishnamoorthi
+* U.S. Sen. Duckworth
 * Israeli MK
 
+## U.S. Presidential Candidates
+
+* Donald Trump, U.S. Republican Presidential Nominee
+* J.D. Vance, U.S. Republican Vice Presidential Nominee
+* Kamala Harris, U.S. Democratic Presidential Nominee
+* Tim Walz, U.S. Democratic Vice Presidential Nominee
+
+<!---
 ## Candidates for Governor, Senator, Congress (U.S.)
 
 * J.D. Vance, Republican Candidate for Senate, Ohio
@@ -140,11 +158,11 @@ Incorrect: ~~Belgium’s~~ Ambassador to Poland
 For incumbent candidates, omit “Candidate” if possible:
 
 * Ron DeSantis, Governor of Florida, Republican
+--->
 
 ## Heads of International Organizations
 
-* United Nations Secretary General
-* Secretary General of NATO
+* UN Secretary-General
 * NATO Secretary General
 
 ## Military Leaders
@@ -188,7 +206,7 @@ Names of clergymen and women should be preceded by the person’s title (Father,
 * Bartholomew I, Ecumenical Patriarch of Constantinople
 * Epiphanius I, Metropolitan of Kyiv and All Ukraine
 
-##### Note that the title of cardinal is traditionally placed between the first name and surname:
+**Note that the title of cardinal is traditionally placed between the first name and surname:**
 
 * Timothy Cardinal Dolan, Archbishop of New York
 * Blase Cardinal Cupich, Archbishop of Chicago
@@ -196,23 +214,23 @@ Names of clergymen and women should be preceded by the person’s title (Father,
 
 ## Other Guidelines
 
-##### If an official holds more than one title, list the one that is more important or more relevant to the subject at hand:
+**If an official holds more than one title, list the one that is more important or more relevant to the subject at hand:**
 
-* Mariusz Błaszczak, Minster of Defense
-_or_
-* Mariusz Błaszczak, Polish Defense Minister
+* Adam Bodnar, Polish Justice Minister
+* Adam Bodnar, Polish Public Prosecutor General
 
-##### Do not translate _pełnomocnik_ as _plenipotentiary_:
+**Do not translate _pełnomocnik_ as _plenipotentiary_:**
 
 * Special Representative for Strategic Energy Infrastructure
 * ~~Government Plenipotentiary~~ for Strategic Energy Infrastructure
 
-##### Other frequently mistranslated titles:
+**Other frequently mistranslated titles:**
+
 * _publicysta_ → columnist (_not_ ~~publicist~~)
 
 ## Abbreviations, Acronyms and Initialisms
 
-Abbreviated titles end in a period:
+**Abbreviated titles end in a period:**
 
 * Dr.
 * Prof.
@@ -223,7 +241,7 @@ Abbreviated titles end in a period:
 * Gen.
 * Col.
 
-Avoid periods in acronyms and initialisms, with the exception of U.S. and U.K.:
+**Avoid periods in acronyms and initialisms, with the exception of U.S. and U.K.:**
 
 * U.S.
 * U.K.
@@ -237,3 +255,4 @@ Avoid periods in acronyms and initialisms, with the exception of U.S. and U.K.:
 * CSTO
 * OPEC
 
+# ﷽ 
