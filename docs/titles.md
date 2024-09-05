@@ -1,11 +1,8 @@
 # TVP World Style Guide: Official Titles
 
-Written by [Arthur Barys](mailto:arthur.barys@tvp.pl) \
-Updated: March 7, 2024
-
 ## General Guidelines
 
-The following style guide standardizes the use of official titles in on-screen graphics, including name straps, news tickers, and other chyrons. As a general rule, both full titles (President of Poland, Prime Minister of Canada) and short titles (Polish President, Canadian Prime Minister) are acceptable. For presidents, the full title (President of Poland) is preferred in namestraps, while the abbreviated form (_Polish President_) is acceptable in the lower third.
+The following style guide standardizes the use of official titles in on-screen graphics, including name straps, news tickers, and other chyrons. As a general rule, for presidents, the full title (President of Poland) is preferred in namestraps, while the condensed form (_Polish President_) is acceptable in the lower third and in news copy.
 
 ## Presidents and Vice-Presidents
 
