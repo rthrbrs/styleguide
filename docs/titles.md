@@ -254,5 +254,3 @@ Names of clergymen and women should be preceded by the person’s title (Father,
 * OSCE
 * CSTO
 * OPEC
-
-# ﷽ 
