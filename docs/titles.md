@@ -120,7 +120,7 @@ Write “President of [Country],” or use the short title if the full title is 
 
 ## Members of Legislative Bodies
 
-**In namestraps, provide the country, position, and political party or bloc:
+**In namestraps, provide the country, position, and political party or bloc:**
 
 * Polish MP, Civic Platform
 * Ukrainian MP, Servant of the People
