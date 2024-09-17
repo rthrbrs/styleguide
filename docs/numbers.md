@@ -54,7 +54,7 @@ Where appropriate, convert currencies to U.S. dollars or euros. Do not mix diffe
 ### Website and Social Media
 In **headlines**, convert currencies into U.S. dollars or euros. In the **lead or text**, it is acceptable to mention the local currency on first reference, paired with the dollar or euro conversion in brackets. Use dollars or euros in subsequent references.
 
-## TV, Website and Social Media
+### TV, Website and Social Media
 
 For the Polish currency, use the singular form _złoty_ (spelled in Polish) for both singular and plural, just as you would *yen* and *yuan*.
 
