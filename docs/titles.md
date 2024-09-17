@@ -224,9 +224,6 @@ Names of clergymen and women should be preceded by the person’s title (Father,
 * Special Representative for Strategic Energy Infrastructure
 * ~~Government Plenipotentiary~~ for Strategic Energy Infrastructure
 
-**Other frequently mistranslated titles:**
-
-* _publicysta_ → columnist (_not_ ~~publicist~~)
 
 ## Abbreviations, Acronyms and Initialisms
 
