@@ -11,3 +11,7 @@ Avoid translating _pełnomocnik_ as _plenipotentiary_. While technically correct
 ## publicysta
 
 Translate _publicysta_ as **columnist** or **journalist**, not _publicist_, which is a false friend.
+
+## prezydent
+
+When referring to the top official in a major Polish city, translate _prezydent_ as **mayor**.
