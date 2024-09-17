@@ -113,10 +113,16 @@ Write “President of [Country],” or use the short title if the full title is 
 * British Ambassador to Poland
 * British Embassy in Poland
 
-!!! failure "Note"
 
-    Incorrect: Czech Ambassador to ~~the Vatican~~  
-    Incorrect: ~~Belgium’s~~ Ambassador to Poland
+!!! success "Correct"
+
+    Czech Ambassador to the Holy See  
+    Belgian Ambassador to Poland
+
+!!! failure "Incorrect"
+
+    Czech Ambassador to the Vatican  
+    Belgium’s Ambassador to Poland
 
 ## Members of Legislative Bodies
 
