@@ -1,3 +1,3 @@
 # The Manual of Style
 
-# ﷽ 
+#
