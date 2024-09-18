@@ -34,7 +34,7 @@ Use a period as the decimal separator. Do not use a comma:
 
 ### TV Prompter Text
 
-Write out large numbers, currencies, and percentage in full. This is easier for anchors to read off a teleprompter:
+Write out large numbers, currencies, and percentages in full. This is easier for anchors to read off a teleprompter:
 
 * 10 thousand dollars
 * 25 million voters
