@@ -56,11 +56,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/about/</loc>
-         <lastmod>2024-09-18</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>http://localhost:8000/numbers/</loc>
          <lastmod>2024-09-18</lastmod>
          <changefreq>daily</changefreq>
