@@ -2,19 +2,19 @@ site_name: Style Guide
 site_url: http://localhost:8000
 nav:
   - Home: index.md
-  - Official Titles: titles.md
-  - Polish Officials and Institutions: Poland.md
-  - Polish Committees and Commissions: Committees.md
-  - Geography: ToponymsAndEthnonyms.md
-  - Numbers and Currencies: numbers.md
   - Banned Phrases: BannedPhrases.md
-  - Pronunciation: Pronunciation.md
-  - European Parties: EuropeanPoliticalParties.md
   - Editorial Guidelines: EditorialGuidelines.md
-  - Punctuation: Punctuation.md
-  - Frequently Used Namestraps: Namestraps.md
-  - Translating from Polish: translating_from_Polish.md
+  - European Political Parties: EuropeanPoliticalParties.md
+##- Frequently Used Namestraps: Namestraps.md
+  - Geography: ToponymsAndEthnonyms.md
   - NATO in Poland: NATO_PL.md
+  - Numbers and Currencies: numbers.md
+  - Official Titles: titles.md
+  - Polish Committees and Commissions: Committees.md
+  - Polish Officials and Institutions: Poland.md
+  - Pronunciation: Pronunciation.md
+  - Punctuation: Punctuation.md
+  - Translating from Polish: translating_from_Polish.md
 theme: material
 markdown_extensions:
   - admonition

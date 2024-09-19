@@ -1,4 +1,6 @@
-# Numbers and Currencies
+---
+title: Numbers and Currencies
+---
 
 ## Numbers
 

@@ -1,5 +1,6 @@
-# TVP World Style Guide: Official Titles
-
+---
+title: Official Titles
+---
 ## General Guidelines
 
 The following style guide standardizes the use of official titles in on-screen graphics, including name straps, news tickers, and other chyrons. As a general rule, for presidents, the full title (President of Poland) is preferred in namestraps, while the condensed form (_Polish President_) is acceptable in the lower third and in news copy.

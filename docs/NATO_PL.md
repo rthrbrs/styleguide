@@ -1,7 +1,3 @@
----
-NATO in Poland
----
-
 ## NATO Units in Poland 
 
 * MNC NE, Multinational Corps Northeast in Szczecin, formed in 1999

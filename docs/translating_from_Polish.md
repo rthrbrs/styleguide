@@ -1,4 +1,6 @@
-# Translating from Polish
+---
+title: Translating from Polish
+---
 
 ## kamienica
 

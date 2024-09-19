@@ -1,8 +1,8 @@
-# Polish Ministers, Officials and State Institutions
+---
+title: Polish Ministers, Officials and State Institutions
+---
 
 The following style guide lists and standardizes the English names of Polish government ministers, high-ranking official positions, and public institutions.
-
-Updated: May 10, 2024
 
 ## Council of Ministers
 

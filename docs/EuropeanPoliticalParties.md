@@ -1,3 +1,3 @@
 ---
-European Political Parties
+title: European Political Parties
 ---

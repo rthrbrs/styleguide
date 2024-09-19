@@ -2,30 +2,34 @@
 
 The following style guide standardizes the use of place names in spoken English, on-screen graphics, and written English published on the TVP World website.
 
-# Azerbaijan
+## Azerbaijan
 
-# Kosovo
+## Kosovo
 
 Citizens of Kosovo may be refered to as **Kosovar** or **Kosovan**. The adjectival form **Kosovo** is preferable when referring to authorities in Kosovo:
 
-* Kosovo President Vjosa Osmani
+> Kosovo President Vjosa Osmani
 
-# Luxembourg
+## Luxembourg
 
-# The Philippines
+## The Philippines
 
 The adjective for people, offices, and institutions, etc., is **Philippine**.
 
-# Serbia
+## Poland
+
+### Oder River
+### Krakow
+
+## Serbia
 
 Use **Serb** to refer to a person of Serbian ethnicity. Use the adjective **Serbian** to describe something related to Serbia or its language.
 
+## Slovakia
 
-# Slovakia
+## Ukraine
 
-# Ukraine
-
-# United States
+## United States
 Write **United States** or **U.S.** Avoid the form “USA” in spoken and written English. Likewise, do not use the abbreviation “US” without periods, which is identical to the first-person plural pronoun in all-caps contexts. Use the abbreviation **U.S.** as both an adjective and a noun.
 
 Mention the state or district and country when identifying locations in the United States:

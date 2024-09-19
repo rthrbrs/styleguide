@@ -1,3 +1,3 @@
 ---
-Editorial Guidelines
+title: Editorial Guidelines
 ---

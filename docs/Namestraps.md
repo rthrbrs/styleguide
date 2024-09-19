@@ -1,3 +1,3 @@
 ---
-Frequently Used Namestraps
+title: Frequently Used Namestraps
 ---
