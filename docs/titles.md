@@ -3,43 +3,83 @@ title: Official Titles
 ---
 ## General Guidelines
 
-The following style guide standardizes the use of official titles in on-screen graphics, including name straps, news tickers, and other chyrons. As a general rule, for presidents, the full title (President of Poland) is preferred in namestraps, while the condensed form (_Polish President_) is acceptable in the lower third and in news copy.
+The following guidelines standardize the use of official titles in on-screen graphics, including namestraps, news tickers, and other chyrons.
+
+In cases not covered by the guidelines below, use a standard two-part namestrap containing the person's function and organization or institution with which they are affiliated:
+
+???+ note "Example"
+    Anne Applebaum  
+    Journalist, The Atlantic
 
 ## Presidents and Vice-Presidents
 
-**Use the full version in namestraps**
+ As a general rule, for presidents, the full title (_President of Poland_) is preferred in namestraps, while the condensed form (_Polish President_) is acceptable in the lower third (the ticker and caption) and in news copy.
 
-Write “President of [Country],” or use the short title if the full title is awkward or too long. 
+### In namestraps
 
-* President of Ukraine 
-* President of the European Parliament
-* President of the European Commission
-* President of the United States
-* Acting President of Myanmar
-* Xi Jinping, President of China
-* Kamala Harris, Vice President of the United States
+Write _President of X_, or use the short title if the full title is awkward or too long. 
 
-**Use short and abbreviated forms in the news ticker**
+???+ note "Examples"
+    Volodymy Zelenskyy  
+    President of Ukraine
 
-* U.S. President
-* Polish President
+    Joe Biden  
+    President of the United States
+
+    Kamala Harris  
+    Vice President of the United States
+
+    Roberta Metsola  
+    President of the European Parliament
+
+    Ursula von der Leyen  
+    President of the European Commission
+
+    Min Aung Hlaing  
+    Acting President of Myanmar
+
+
+### In the lower third
+
+Use the short form of the title in the lower third:
+
+???+ note "Examples"
+
+    U.S. President  
+    Polish President  
+    EC President
 
 ## Prime Ministers and Heads of Government
 
-**Use the full version in namestraps**
+### In namestraps
 
-* Polish Prime Minister
-* Polish Deputy Prime Minister
-* British Prime Minister
-* Scottish First Minister
-* German Chancellor
+Write _Prime Minister of X_ or _X Prime Minister_, especially the short title if the full title is awkward or too long. 
 
-**Use short and abbreviated forms in the news ticker**
+???+ note "Examples"
+    
+    Donald Tusk  
+    Prime Minister of Poland
+    
+    Kier Starmer  
+    British Prime Minister
 
-* Polish PM
-* British PM
-* U.K. PM
+    John Swinney  
+    Scottish First Minister
 
+    Olaf Scholz  
+    Chancellor of Germany
+
+### In the lower third
+
+Use short and abbreviated forms of titles in the lower third:
+
+???+ note "Examples"
+
+    Polish PM Donald Tusk
+
+    U.K. PM Kier Starmer
+
+    
 ## Other Political Leaders and Heads of State
 
 * Sviatlana Tsikhanouskaya, Exiled Belarusian Opposition Leader
