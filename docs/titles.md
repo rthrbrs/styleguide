@@ -11,6 +11,31 @@ In cases not covered by the guidelines below, use a standard two-part namestrap 
     Anne Applebaum  
     Journalist, The Atlantic
 
+## Spelling
+
+For names originally written in the Latin script, be sure to preserve all diacritical characters included in the original spelling. Do not "simplify" names for the sake of an English-speaking audience. 
+
+???+ note "Example"
+    Iga Świątek  
+    Polish Tennis Player
+
+In rare cases, an individual may choose not to use original diacritics, and instead goes by a modified "international" version of his or her name. In all cases, default to the person's personal preference, if it is known.
+
+???+ note "Example"
+    Novak Djokovic  
+    Serbian Tennis Player
+
+For names originally written in non-Latin scripts such as Cyrillic, use the Latin transliteration preferred by the individual in question, or the spelling most commonly used in English-language media. The English transliteration is always preferred, unless the person goes by a different spelling.
+
+???+ note "Example"
+    Volodymyr Zelenskyy  
+    President of Ukraine
+
+    Salome Zourabichvili  
+    President of Georgia
+
+Do not copy blindly from Reuters, EBU, or other news sources. Always double-check spelling and make sure the namestrap matches our format. 
+
 ## Presidents and Vice-Presidents
 
  As a general rule, for presidents, the full title (_President of Poland_) is preferred in namestraps, while the condensed form (_Polish President_) is acceptable in the lower third (the ticker and caption) and in news copy.
