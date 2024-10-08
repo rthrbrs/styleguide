@@ -34,7 +34,14 @@ For names originally written in non-Latin scripts such as Cyrillic, use the Lati
     Salome Zourabichvili  
     President of Georgia
 
-Do not copy blindly from Reuters, EBU, or other news sources. Always double-check spelling and make sure the namestrap matches our format. 
+Do not use the Polish transliteration of names originally written in other scripts:
+
+!!! failure "Incorrect"
+
+    Michaił Saakaszwili  
+    Former President of Georgia
+
+Do not copy blindly from Reuters, EBU, or other news sources. Always double-check spelling and make sure the namestrap matches our format.
 
 ## Presidents and Vice-Presidents
 
@@ -45,14 +52,14 @@ Do not copy blindly from Reuters, EBU, or other news sources. Always double-chec
 Write _President of X_, or use the short title if the full title is awkward or too long. 
 
 ???+ note "Examples"
-    Volodymy Zelenskyy  
-    President of Ukraine
-
     Joe Biden  
     President of the United States
 
     Kamala Harris  
     Vice President of the United States
+
+    Recep Tayyip Erdoğan  
+    President of Turkey
 
     Roberta Metsola  
     President of the European Parliament
@@ -99,85 +106,67 @@ Write _Prime Minister of X_ or _X Prime Minister_, especially the short title if
 Use short and abbreviated forms of titles in the lower third:
 
 ???+ note "Examples"
-
     Polish PM Donald Tusk
 
     U.K. PM Kier Starmer
 
     
-## Other Political Leaders and Heads of State
+## Monarchs
 
-* Sviatlana Tsikhanouskaya, Exiled Belarusian Opposition Leader
-* Tamim bin Hamad Al Thani, Emir of Qatar
-* King Charles III
-* King Felipe VI
-* King Rama X of Thailand
-* Pope Francis
+In namestraps, list the monarch's title and country. The latter may be omitted for brevity or if the individual is widely known. 
 
-## Foreign Ministers and Defense Ministers
+???+ note "Examples"
+    Pope Francis
+ 
+    King Charles III
+     
+    Tamim bin Hamad Al Thani   
+    Emir of Qatar
+    
+    King Felipe VI of Spain
+    
+    King Rama X of Thailand
+    
 
-* Polish Foreign Minister
-* Polish Foreign Minister
-* Polish Defense Minister
-* British Foreign Secretary
-* British Defense Secretary
-* U.S. Secretary of State (but _not_ U.S. ~~State Secretary~~)
-* U.S. Secretary of Defense
-* U.S. Defense Secretary
-* EU Foreign Policy Chief
+## Government Ministers and Cabinet Members
 
-**Abbreviate titles in the news ticker:**
+In namestraps, provide the person's country and position. Foreign Minister may be abbreviated to FM in the lower third. Remember that _defense_ is spelled with an _s_ in American English. Use this spelling unless referring to officials from the U.K. or Australia, where the official title is spelled with a _c_.
 
-* U.K. Foreign Secretary
-* Polish FM
+???+ note "Examples"
+    Radosław Sikorski  
+    Polish Foreign Minister
 
-???+ note "Use American spelling"
+    Antony Blinken  
+    U.S. Secretary of State
 
-    Defense Minister, not ~~Defence~~ Minister
+    John Healey  
+    British Defence Secretary
 
-**Use short and abbreviated forms in the news ticker. Do not abbreviate Defense Minister to DM.**
+???+ note "Ticker Examples"
+    U.K. Foreign Secretary David Lammy
 
-* Polish FM
-* U.K. Defense Secretary
+    Ukrainian FM Andrii Sybiha
 
-## Other Ministers and Cabinet Members
+## Diplomats
 
-* British Finance Minister
-* Chancellor of the Exchequer
-* Interior Secretary
-* Secretary of Health and Human Services 
-* U.S. Health Secretary
-* Marek Gzik, State Secretary, Ministry of Science and Higher Education
+When identifying ambassadors, consuls, and other diplomats, mention their home country and host country or city. Keep in mind that ambassadors are appointed _to_ countries, and the preposition is used in their titles, as well:
 
-## Diplomats and Embassies
+???+ note "Examples"
+    Mark Brzezinski  
+    U.S. Ambassador to Poland
 
-### Diplomats
-* U.S. Ambassador **to Poland**
-* U.S. Ambassador **in Warsaw**
-* British Ambassador to Poland
-* Former U.S. Ambassador to Ukraine
-* Former Polish Consul in Afghanistan
-* Chinese Ambassador to the U.S.
-* Czech Ambassador to the Holy See 
-* Belgian Consul General 
-* Second Secretary, Azerbaijani Embassy in Poland
-* Apostolic Nuncio to Poland
-* Andrzej Sadoś, Permanent Representative of Poland to the EU
+    Piotr Serafin  
+    Permanent Representative of Poland to the EU
 
-### Embassies
-* U.S. Embassy in Poland
-* Polish Embassy in the United States
-* Apostolic Nunciature to Poland
+    Bartosz Cichocki  
+    Former Polish Ambassador to Ukraine
 
-**If the adjectival form of a country’s name is awkward or obscure, write “Embassy of [country],” followed by the host capital or country:**
+    Anna Clunes  
+    British Ambassador to Poland
 
-* Embassy of Burkina Faso in Washington, D.C. (_not_ ~~Burkinabé~~ Embassy)
-* Embassy of Myanmar in Germany
 
-**For the United Kingdom, use the adjective British, not U.K., outside the news ticker:**
 
-* British Ambassador to Poland
-* British Embassy in Poland
+
 
 
 !!! success "Correct"
