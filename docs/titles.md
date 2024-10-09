@@ -164,49 +164,70 @@ When identifying ambassadors, consuls, and other diplomats, mention their home c
     Anna Clunes  
     British Ambassador to Poland
 
+Do not use the possessive form of the host country (Germany's Ambassador).
 
-
-
-
+The highest diplomatic representative of the Holy See (not the Vatican) holds the title of Apostolic Nuncio, rather than Ambassador. He serves at the Apostolic Nunciature, not an embassy.
 
 !!! success "Correct"
 
+    Belgian Ambassador to Poland  
     Czech Ambassador to the Holy See  
-    Belgian Ambassador to Poland
+    Apostolic Nuncio to Poland
 
 !!! failure "Incorrect"
 
+    Belgium’s Ambassador to Poland  
     Czech Ambassador to the Vatican  
-    Belgium’s Ambassador to Poland
+    Vatican Ambassador to Poland
 
 ## Members of Legislative Bodies
 
-**In namestraps, provide the country, position, and political party or bloc:**
+### In namestraps
 
-* Polish MP, Civic Platform
-* Ukrainian MP, Servant of the People
-* Dariusz Joński, Polish MEP, EPP
-* U.S. Republican Senator 
-* U.S. Democratic Representative
-* Jeremy Hunt, British MP, Conservative
-* Benny Gantz, Member of Knesset, National Unity
-* Harini Amarasuriya, Sri Lankan MP, National People's Power Party
+Provide the country, appropriate abbreviation, and political party or bloc. The country may be omitted if this is unambiguous based on the person's function, as in the case of Israel, the only country whose legislators are titled Members of Knesset.
 
-**Use short and abbreviated forms in news ticker:**
+???+ note "Examples"
+    Anna Maria Żukowska    
+    Polish MP, The Left
 
-* Polish MP
-* Austrian MEP
-* U.K. MP
-* U.S. Rep. Krishnamoorthi
-* U.S. Sen. Duckworth
-* Israeli MK
+    Dariusz Joński  
+    Polish MEP, European People's Party
+
+    Jeremy Hunt  
+    British MP, Conservative
+
+    Benny Gantz  
+    Member of Knesset, National Unity
+
+Use the following format for U.S. representatives and senators:
+
+???+ note "Examples"
+    Raja Krishnamoorthi  
+    U.S. Democratic Representative
+
+    Lindsey Graham  
+    U.S. Republican Senator
+
+### In the lower third
+
+Use short and abbreviated forms in the ticker and caption.
+
+???+ note "Examples"
+    Polish MP  
+    Austrian MEP  
+    U.K. MP  
+    U.S. Rep.  
+    U.S. Sen. 
 
 ## U.S. Presidential Candidates
 
-* Donald Trump, U.S. Republican Presidential Nominee
-* J.D. Vance, U.S. Republican Vice Presidential Nominee
-* Kamala Harris, U.S. Democratic Presidential Nominee
-* Tim Walz, U.S. Democratic Vice Presidential Nominee
+Use the following format for presidential and vice presidential candidates in the U.S.:
+
+???+ note "Examples"
+    Donald Trump, U.S. Republican Presidential Nominee  
+    J.D. Vance, U.S. Republican Vice Presidential Nominee  
+    Kamala Harris, U.S. Democratic Presidential Nominee  
+    Tim Walz, U.S. Democratic Vice Presidential Nominee
 
 <!---
 ## Candidates for Governor, Senator, Congress (U.S.)
@@ -259,19 +280,18 @@ Academic titles are used less frequently in English-speaking countries than in P
 
 Names of clergymen and women should be preceded by the person’s title (Father, Reverend, Rabbi, Sister) and, where applicable, followed by the abbreviation of their religious congregation (OP, SJ, OSF, etc.). Roman Catholic and Eastern Orthodox priests are typically styled Father (Fr.), while Anglican/Episcopal priests and some Protestant ministers take the title Reverend (Rev.). If the ordained person holds a church office, it should be listed after the comma. In some cases, this will make the preceding title superfluous:
 
-* Father Mike Schmitz
-* Reverend Jesse Jackson
-* Brother Guy Consolmagno, SJ
-* Archbishop Wojciech Polak, Primate of Poland
+* Fr. Mike Schmitz
+* Rev. Jesse Jackson
+* Br. Guy Consolmagno, SJ
+* Abp. Wojciech Polak, Primate of Poland
 * Laurent Ulrich, Archbishop of Paris
 * Bartholomew I, Ecumenical Patriarch of Constantinople
 * Epiphanius I, Metropolitan of Kyiv and All Ukraine
 
-**Note that the title of cardinal is traditionally placed between the first name and surname:**
+Note that the title of cardinal is traditionally placed between the first name and surname.
 
 * Timothy Cardinal Dolan, Archbishop of New York
 * Blase Cardinal Cupich, Archbishop of Chicago
-* Bl. Stefan Cardinal Wyszyński
 
 ## Other Guidelines
 
@@ -280,10 +300,7 @@ Names of clergymen and women should be preceded by the person’s title (Father,
 * Adam Bodnar, Polish Justice Minister
 * Adam Bodnar, Polish Public Prosecutor General
 
-**Do not translate _pełnomocnik_ as _plenipotentiary_:**
 
-* Special Representative for Strategic Energy Infrastructure
-* ~~Government Plenipotentiary~~ for Strategic Energy Infrastructure
 
 
 ## Abbreviations, Acronyms and Initialisms
