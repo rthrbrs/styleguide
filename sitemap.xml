@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://localhost:8000/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/BannedPhrases/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/BannedPhrases/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/Committees/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/Committees/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/EditorialGuidelines/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/EditorialGuidelines/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/EuropeanPoliticalParties/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/EuropeanPoliticalParties/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/NATO_PL/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/NATO_PL/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/Namestraps/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/Namestraps/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/Poland/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/Poland/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/Pronunciation/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/Pronunciation/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/Punctuation/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/Punctuation/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/ToponymsAndEthnonyms/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/ToponymsAndEthnonyms/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/numbers/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/numbers/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/titles/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/titles/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://localhost:8000/translating_from_Polish/</loc>
-         <lastmod>2024-09-21</lastmod>
+         <loc>https://rthrbrs.github.io/styleguide/titles/translating_from_Polish/</loc>
+         <lastmod>2024-10-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
