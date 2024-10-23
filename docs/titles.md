@@ -54,7 +54,7 @@ Do not use the Polish transliteration of names originally written in other scrip
 
 Do not copy blindly from Reuters, EBU, or other news sources. Always double-check spelling and make sure the namestrap matches our format.
 
-### Abbreviations, Acronyms and Initialisms
+### Abbreviations, Acronyms, and Initialisms
 
 Abbreviated titles end in a period:
 
