@@ -1,5 +1,5 @@
 site_name: Style Guide
-site_url: https://rthrbrs.github.io/styleguide/titles/
+site_url: https://rthrbrs.github.io/styleguide/
 nav:
   - Home: index.md
   - Banned Phrases: BannedPhrases.md

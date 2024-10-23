@@ -106,9 +106,8 @@ Write _Prime Minister of X_ or _X Prime Minister_, especially the short title if
 Use short and abbreviated forms of titles in the lower third:
 
 ???+ note "Examples"
-    Polish PM Donald Tusk
-
-    U.K. PM Kier Starmer
+    * Polish PM Donald Tusk
+    * U.K. PM Kier Starmer
 
     
 ## Monarchs
@@ -116,17 +115,13 @@ Use short and abbreviated forms of titles in the lower third:
 In namestraps, list the monarch's title and country. The latter may be omitted for brevity or if the individual is widely known. 
 
 ???+ note "Examples"
-    Pope Francis
- 
-    King Charles III
-     
-    Tamim bin Hamad Al Thani   
-    Emir of Qatar
-    
-    King Felipe VI of Spain
-    
-    King Rama X of Thailand
-    
+    * Pope Francis
+    * King Charles III
+    * King Felipe VI of Spain
+    * King Rama X of Thailand
+
+    * Tamim bin Hamad Al Thani   
+      Emir of Qatar
 
 ## Government Ministers and Cabinet Members
 
@@ -143,9 +138,8 @@ In namestraps, provide the person's country and position. Foreign Minister may b
     British Defence Secretary
 
 ???+ note "Ticker Examples"
-    U.K. Foreign Secretary David Lammy
-
-    Ukrainian FM Andrii Sybiha
+    * U.K. Foreign Secretary David Lammy
+    * Ukrainian FM Andrii Sybiha
 
 ## Diplomats
 
@@ -170,15 +164,15 @@ The highest diplomatic representative of the Holy See (not the Vatican) holds th
 
 !!! success "Correct"
 
-    Belgian Ambassador to Poland  
-    Czech Ambassador to the Holy See  
-    Apostolic Nuncio to Poland
+    * Belgian Ambassador to Poland  
+    * Czech Ambassador to the Holy See  
+    * Apostolic Nuncio to Poland
 
 !!! failure "Incorrect"
 
-    Belgium’s Ambassador to Poland  
-    Czech Ambassador to the Vatican  
-    Vatican Ambassador to Poland
+    * Belgium’s Ambassador to Poland  
+    * Czech Ambassador to the Vatican  
+    * Vatican Ambassador to Poland
 
 ## Members of Legislative Bodies
 
@@ -213,21 +207,21 @@ Use the following format for U.S. representatives and senators:
 Use short and abbreviated forms in the ticker and caption.
 
 ???+ note "Examples"
-    Polish MP  
-    Austrian MEP  
-    U.K. MP  
-    U.S. Rep.  
-    U.S. Sen. 
+    * Polish MP  
+    * Austrian MEP  
+    * U.K. MP  
+    * U.S. Rep.  
+    * U.S. Sen. 
 
 ## U.S. Presidential Candidates
 
 Use the following format for presidential and vice presidential candidates in the U.S.:
 
 ???+ note "Examples"
-    Donald Trump, U.S. Republican Presidential Nominee  
-    J.D. Vance, U.S. Republican Vice Presidential Nominee  
-    Kamala Harris, U.S. Democratic Presidential Nominee  
-    Tim Walz, U.S. Democratic Vice Presidential Nominee
+    * Donald Trump, U.S. Republican Presidential Nominee  
+    * J.D. Vance, U.S. Republican Vice Presidential Nominee  
+    * Kamala Harris, U.S. Democratic Presidential Nominee  
+    * Tim Walz, U.S. Democratic Vice Presidential Nominee
 
 <!---
 ## Candidates for Governor, Senator, Congress (U.S.)
@@ -244,8 +238,11 @@ For incumbent candidates, omit “Candidate” if possible:
 
 ## Heads of International Organizations
 
-* UN Secretary-General
-* NATO Secretary General
+In namestraps, provided the title used by person, with no additional information unless necessary.
+
+???+ note "Examples"
+    * UN Secretary-General  
+    * NATO Secretary General
 
 ## Military Leaders
 
