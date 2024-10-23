@@ -11,7 +11,18 @@ In cases not covered by the guidelines below, use a standard two-part namestrap 
     Anne Applebaum  
     Journalist, The Atlantic
 
-## Spelling
+For individuals who hold more than one position, choose the namestrap that is most relevant in the context of the coverage, not both.
+
+???+ note "Example"
+    Adam Bodnar  
+    Polish Justice Minister
+
+    _or_
+
+    Adam Bodnar  
+    Polish Public Prosecutor General
+
+### Spelling
 
 For names originally written in the Latin script, be sure to preserve all diacritical characters included in the original spelling. Do not "simplify" names for the sake of an English-speaking audience. 
 
@@ -42,6 +53,31 @@ Do not use the Polish transliteration of names originally written in other scrip
     Former President of Georgia
 
 Do not copy blindly from Reuters, EBU, or other news sources. Always double-check spelling and make sure the namestrap matches our format.
+
+### Abbreviations, Acronyms and Initialisms
+
+Abbreviated titles end in a period:
+
+???+ note "Example"
+    Dr.  
+    Prof.  
+    Sen.  
+    Rep.  
+    Fr.  
+    Rev.  
+    Gen.  
+    Col.  
+
+Avoid periods in acronyms and initialisms, with the exception of U.S. and U.K.:
+
+???+ note "Example"
+    U.S.  
+    U.K.  
+    EU  
+    UN  
+    NATO  
+    PM  
+    FM  
 
 ## Presidents and Vice-Presidents
 
@@ -125,9 +161,9 @@ In namestraps, list the monarch's title and country. The latter may be omitted f
 
 ## Government Ministers and Cabinet Members
 
-In namestraps, provide the person's country and position. Foreign Minister may be abbreviated to FM in the lower third. Remember that _defense_ is spelled with an _s_ in American English. Use this spelling unless referring to officials from the U.K. or Australia, where the official title is spelled with a _c_.
+In namestraps, provide the person's country and position. Foreign Minister may be abbreviated to FM in chyrons. Remember that _defense_ is spelled with an _s_ in American English. Use this spelling unless referring to officials from the U.K. or Australia, where the official title is spelled with a _c_.
 
-???+ note "Examples"
+???+ note "Namestrap Examples"
     Radosław Sikorski  
     Polish Foreign Minister
 
@@ -187,6 +223,9 @@ Provide the country, appropriate abbreviation, and political party or bloc. The 
     Dariusz Joński  
     Polish MEP, European People's Party
 
+    Eero Heinäluoma  
+    Finnish MEP, Socialists and Democrats
+
     Jeremy Hunt  
     British MP, Conservative
 
@@ -218,10 +257,17 @@ Use short and abbreviated forms in the ticker and caption.
 Use the following format for presidential and vice presidential candidates in the U.S.:
 
 ???+ note "Examples"
-    * Donald Trump, U.S. Republican Presidential Nominee  
-    * J.D. Vance, U.S. Republican Vice Presidential Nominee  
-    * Kamala Harris, U.S. Democratic Presidential Nominee  
-    * Tim Walz, U.S. Democratic Vice Presidential Nominee
+    Donald Trump  
+    U.S. Republican Presidential Nominee
+
+    J.D. Vance  
+    U.S. Republican Vice Presidential Nominee
+
+    Kamala Harris  
+    U.S. Democratic Presidential Nominee
+
+    Tim Walz  
+    U.S. Democratic Vice Presidential Nominee
 
 <!---
 ## Candidates for Governor, Senator, Congress (U.S.)
@@ -246,83 +292,64 @@ In namestraps, provided the title used by person, with no additional information
 
 ## Military Leaders
 
-Provide the person’s military rank and office, where applicable:
+In the lower third, provide the person’s abbreviated military rank and office, where applicable:
 
-* General Mark Milley, Chairman of the Joint Chiefs of Staff
-* Admiral William H. McRaven, U.S. Navy
-* General Valerii Zaluzhnyi, Commander in Chief, Armed Forces of Ukraine
+???+ note "Examples"
+    Gen. Charles Q. Brown, Jr.  
+    Chairman of the U.S. Joint Chiefs of Staff
 
-##### Abbreviated titles may be used in the news ticker:
+    Adm. William H. McRaven  
+    U.S. Navy
+    
+    Gen. Oleksandr Syrskyi  
+    Commander in Chief, Armed Forces of Ukraine
 
-* Gen. Mark Milley
-* Adm. William McRaven
-* Gen. Zaluzhnyi
-* Lt. Col. Alexander Vindman 
+    Gen. Ben Hodges (Ret.)  
+    Former Commander, U.S. Army Europe
+
 
 ## Academia, Think Tanks and Other Organizations
 
 List the person’s **function** and **institution**, in that order, separated by a comma:
 
-* Vice-President, U.S. Institute of Peace
-* Head of Space Missions, NASA
-* Senior Fellow, Heritage Foundation
-* Spokesman, Ukrainian Air Force
+???+ note "Examples"
+    * Vice-President, U.S. Institute of Peace
+    * Head of Space Missions, NASA
+    * Senior Fellow, Heritage Foundation
+    * Levin Professor of History, Yale University
 
-Academic titles are used less frequently in English-speaking countries than in Poland. If a guest insists that you mention their degree, use Prof. or Dr. rather than Ph.D. Otherwise, use the title Dr. for medical doctors only.
-
-* Dr. Joanna Gocłowska-Bolek, American Studies Center, University of Warsaw
-* Timothy Snyder, Levin Professor of History, Yale University
+In English media, academic titles are used less frequently than in Poland. If a guest insists that you mention their degree, use Prof. or Dr. rather than Ph.D. Otherwise, use the title Dr. for medical doctors only.
 
 ## Clergy
 
 Names of clergymen and women should be preceded by the person’s title (Father, Reverend, Rabbi, Sister) and, where applicable, followed by the abbreviation of their religious congregation (OP, SJ, OSF, etc.). Roman Catholic and Eastern Orthodox priests are typically styled Father (Fr.), while Anglican/Episcopal priests and some Protestant ministers take the title Reverend (Rev.). If the ordained person holds a church office, it should be listed after the comma. In some cases, this will make the preceding title superfluous:
 
-* Fr. Mike Schmitz
-* Rev. Jesse Jackson
-* Br. Guy Consolmagno, SJ
-* Abp. Wojciech Polak, Primate of Poland
-* Laurent Ulrich, Archbishop of Paris
-* Bartholomew I, Ecumenical Patriarch of Constantinople
-* Epiphanius I, Metropolitan of Kyiv and All Ukraine
+???+ note "Examples"
+    Fr. Mike Schmitz
+    
+    Rev. Jesse Jackson
+    
+    Br. Guy Consolmagno, SJ
+    
+    Abp. Wojciech Polak  
+    Primate of Poland
+    
+    Laurent Ulrich  
+    Archbishop of Paris
+
+    Bartholomew I  
+    Ecumenical Patriarch of Constantinople
+    
+    Epiphanius I  
+    Metropolitan of Kyiv and All Ukraine
 
 Note that the title of cardinal is traditionally placed between the first name and surname.
 
-* Timothy Cardinal Dolan, Archbishop of New York
-* Blase Cardinal Cupich, Archbishop of Chicago
-
-## Other Guidelines
-
-**If an official holds more than one title, list the one that is more important or more relevant to the subject at hand:**
-
-* Adam Bodnar, Polish Justice Minister
-* Adam Bodnar, Polish Public Prosecutor General
+???+ note "Examples"
+    Timothy Cardinal Dolan  
+    Archbishop of New York
+    
+    Blase Cardinal Cupich  
+    Archbishop of Chicago
 
 
-
-
-## Abbreviations, Acronyms and Initialisms
-
-**Abbreviated titles end in a period:**
-
-* Dr.
-* Prof.
-* Sen.
-* Rep.
-* Fr.
-* Rev.
-* Gen.
-* Col.
-
-**Avoid periods in acronyms and initialisms, with the exception of U.S. and U.K.:**
-
-* U.S.
-* U.K.
-* EU
-* UN
-* NATO
-* PM
-* FM
-* CIS
-* OSCE
-* CSTO
-* OPEC
