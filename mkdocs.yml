@@ -2,7 +2,7 @@ site_name: Style Guide
 site_url: https://rthrbrs.github.io/styleguide/
 nav:
   - Home: index.md
-  - Titles: titles.md
+  - People: titles.md
   - Places: ToponymsAndEthnonyms.md
   - Numbers and Currencies: numbers.md
   - Polish Officials and Institutions: Poland.md

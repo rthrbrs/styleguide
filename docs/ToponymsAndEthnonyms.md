@@ -1,4 +1,4 @@
-# General Guidelines
+# Place Names
 
 The following style guide standardizes the use of place names in spoken English, on-screen graphics, and written English published on the TVP World website.
 
@@ -71,6 +71,8 @@ Use **Azerbaijani** when referring to the Republic of Azerbaijan and its citizen
 
 **[TO DO]**
 
+## Czech Republic
+
 ## Kosovo
 
 Citizens of Kosovo may be referred to as **Kosovar** or **Kosovan**. The adjectival form **Kosovo** is preferable when referring to authorities in Kosovo:
@@ -136,6 +138,8 @@ Use **Serb** to refer to a person of Serbian ethnicity, including people living 
 
 Use **Slovak** to refer to a person belonging the majority Slavic ethnic group in Slovakia. When referring to the country's language, government, institutions, or citizens (not all of whom are Slovak), use the word **Slovakian**.
 
+## Turkey
+
 ## Ukraine
 
 As mentioned [above](ToponymsAndEthnonyms.md#spelling-of-place-names), avoid the use of Russian and Soviet-Era names such as "Kiev" and "the Ukraine."
@@ -151,7 +155,6 @@ The city formerly known as Dnipropetrovsk is called **Dnipro**, as is the river 
 ### Oblasts
 
 Do not refer to _oblasts_ unless it is absolutely necessary (e.g., on a map or graph). Use **region** instead.
-
 
 ## United Kingdom
 

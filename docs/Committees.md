@@ -1,7 +1,5 @@
 # Polish Parliamentary Committees 2024
 
-Updated: April 22, 2024
-
 The following style guide standardizes the names and descriptions of the committees established in the Polish Parliament in 2024 to investigate the actions of the previous administration.
 
 ## Mail-In Election Committee
@@ -37,10 +35,10 @@ Komisja Śledcza do zbadania legalności, prawidłowości oraz celowości czynno
 
 ## Useful Words and Phrases
 
-* Parliamentary inquiry
-* Parliamentary hearing
+* parliamentary inquiry
+* parliamentary hearing
 * Pegasus probe
-* Spyware used to target opposition figures
+* spyware used to target opposition figures
 * surveillance tools
 * surveillance software
 * surveillance suite

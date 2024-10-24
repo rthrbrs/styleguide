@@ -8,7 +8,9 @@ title: Numbers and Currencies
 
 Spell out millions and billions in headlines, stories, posts, and prompter text:
 
-* The U.S. Senate passes $95 billion in war aid to Ukraine, Israel, and Taiwan.
+???+ note "Example"
+
+    U.S. Senate passes $95 billion in war aid to Ukraine, Israel, and Taiwan
 
 Use a comma as the thousands separator. Do not use a space or period:
 
@@ -51,7 +53,9 @@ Abbreviate million and billion to M and B, respectively.
 
 
 ## Currencies
-Where appropriate, convert currencies to U.S. dollars or euros. Do not mix different converted currencies in the same story.
+Where appropriate, convert currencies to dollars or euros. Do not mix different converted currencies in the same story.
+
+[**TO DO**] Refer to U.S. dollars simply as **dollars**. Specify the country for all other dollar currencies, such as the Canadian dollar.
 
 ### Website and Social Media
 In **headlines**, convert currencies into U.S. dollars or euros. In the **lead or text**, it is acceptable to mention the local currency on first reference, paired with the dollar or euro conversion in brackets. Use dollars or euros in subsequent references.
@@ -64,4 +68,4 @@ Avoid three-letter currency abbreviations such as USD, EUR, or PLN.
 
 ### Ticker
 
-Convert all currencies to U.S. dollars or euros, placing the currency symbol before the amount, followed by B, M, or thousands: **€5B, €10M, $65,000**. 
+Convert all currencies to dollars or euros, placing the currency symbol before the amount, followed by B, M, or thousands: **€5B, €10M, $65,000**. 
