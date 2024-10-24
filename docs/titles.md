@@ -22,6 +22,20 @@ For individuals who hold more than one position, choose the namestrap that is mo
     Adam Bodnar  
     Polish Public Prosecutor General
 
+When mentioning a country in a chyron, provide its common name rather than the official, longer one:
+
+!!! success "Correct"
+
+    * Poland
+    * Russia
+    * Iran
+
+!!! failure "Incorrect"
+
+    * The Republic of Poland
+    * The Russian Federation
+    * The Islamic Republic of Iran
+
 ### Spelling
 
 For names originally written in the Latin script, be sure to preserve all diacritical characters included in the original spelling. Do not "simplify" names for the sake of an English-speaking audience. 
