@@ -1,10 +1,10 @@
 ---
-title: Polish Ministers, Officials and State Institutions
+title: Polish Officials and Institutions
 ---
 
-The following style guide lists and standardizes the English names of Polish government ministers, high-ranking official positions, and public institutions.
+The following style guide lists and standardizes the English names of Polish government ministers, high-ranking official positions, and state and public institutions.
 
-## Council of Ministers
+## Government
 
 **Donald Tusk**  
 Prime Minister
@@ -180,13 +180,13 @@ Deputy Speaker
 ## Government and Public Institutions
 
 **Institute of National Remembrance**  
-Instytut Pamięci Narodowej
+Instytut Pamięci Narodowej (IPN)
 
 **National Council of the Judiciary**  
 Krajowa Rada Sądownictwa
 
 **Supreme Audit Office**  
-Najwyższa Izba Kontroli
+Najwyższa Izba Kontroli (NIK)
 
 **Border Guard**  
 Straż Graniczna
@@ -205,6 +205,25 @@ Polska Wytwórnia Papierów Wartościowych
 
 **Polish National Electoral Commission**  
 Państwowa Komisja Wyborcza
+
+**Polish Government Agency for Strategic Reserves**  
+Rządowa Agencja Rezerw Strategicznych
+
+**Office of Competition and Consumer Protection**  
+Urząd Ochrony Konkurencji i Konsumentów (UOKiK)
+
+**Monetary Policy Council**  
+Rada Polityki Pieniężnej
+
+**Office of the Prime Minister**  
+Kancelaria Premiera
+
+**Office of the President**  
+Kancelaria Prezydenta
+
+???+ "note"
+    Refer to UOKiK by its Polish abbreviation. The office may be described as Poland's antitrust and consumer protection watchdog.
+
 
 ### National Security Council
 
@@ -226,14 +245,56 @@ The NSC includes:
 
 ???+ "NOTE"
 
-    * Rada Bezpieczeństwa Narodowego = National Security Council
-    * Biuro Bezpieczeństwa Narodowego = National Security Bureau
+    **Rada Bezpieczeństwa Narodowego**  
+    National Security Council
+    
+    **Biuro Bezpieczeństwa Narodowego**  
+    National Security Bureau
 
+## Other Institutions and Organizations
 
-## Other
+**Central Police Investigation Bureau**  
+Centralne Biuro Śledcze Policji
+
+**Central Transport Hub**  
+Centralny Port Komunikacyjny (CPK)
+
+???+ "Note"
+    Use the Polish abbrevation, CPK.
+    
+    Our translation is subject to change if and when the CPK adopts an official English name. 
+
+**Military Aviation Works**  
+Wojskowe Zakłady Lotnicze
+
+**National Revenue Administration**  
+Krajowa Administracja Skarbowa
+
+**Social Insurance Institution**  
+ Zakład Ubezpieczeń Społecznych (ZUS)
+
+**Polish Waters**  
+Państwowe Gospodarstwo Wodne Wody Polskie
+
+**Municipal Water and Sewerage Company**  
+Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji (MPWiK)
+
+**Civil Registry Office**  
+Urząd Stanu Cywilnego
+
+## Other Terms
+
+**Shield East**  
+Tarcza Wschód
 
 **European Green Deal**  
 Europejski Zielony Ład
 
 **Rural Solidarity**  
 NSZZ Rolników Indywidualnych
+
+**National Recovery Plan**  
+Krajowy Program Odbudowy (KPO)
+
+**Polish National Lottery**  
+Totalizator Sportowy

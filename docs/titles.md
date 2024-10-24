@@ -1,5 +1,5 @@
 ---
-title: Official Titles
+title: Titles
 ---
 ## General Guidelines
 

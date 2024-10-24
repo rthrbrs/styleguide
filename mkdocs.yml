@@ -2,19 +2,20 @@ site_name: Style Guide
 site_url: https://rthrbrs.github.io/styleguide/
 nav:
   - Home: index.md
-  - Banned Phrases: BannedPhrases.md
-  - Editorial Guidelines: EditorialGuidelines.md
-  - European Political Parties: EuropeanPoliticalParties.md
-  - Frequently (Mis)used Namestraps: Namestraps.md
-  - Geography: ToponymsAndEthnonyms.md
-  - NATO in Poland: NATO_PL.md
+  - Titles: titles.md
+  - Places: ToponymsAndEthnonyms.md
   - Numbers and Currencies: numbers.md
-  - Official Titles: titles.md
-  - Polish Committees and Commissions: Committees.md
   - Polish Officials and Institutions: Poland.md
-  - Pronunciation: Pronunciation.md
-  - Punctuation: Punctuation.md
   - Translating from Polish: translating_from_Polish.md
+  - Punctuation: Punctuation.md
+  - Frequently (Mis)used Namestraps: Namestraps.md
+  - NATO in Poland: NATO_PL.md
+  - Polish Committees and Commissions: Committees.md
+ # - Pronunciation: Pronunciation.md
+ # - Banned Phrases: BannedPhrases.md
+ # - Editorial Guidelines: EditorialGuidelines.md
+ # - European Political Parties: EuropeanPoliticalParties.md
+
 theme: material
 markdown_extensions:
   - admonition
