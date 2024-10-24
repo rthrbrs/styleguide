@@ -35,7 +35,8 @@ Parliamentary committee set up to investigate the legality, conduct, and purpose
 Komisja Śledcza do zbadania legalności, prawidłowości oraz celowości czynności operacyjno-rozpoznawczych podejmowanych m.in. z wykorzystaniem oprogramowania Pegasus przez członków Rady Ministrów, służby specjalne, Policję, organy kontroli skarbowej oraz celno-skarbowej, organy powołane do ścigania przestępstw i prokuraturę w okresie od dnia 16 listopada 2015 r. do dnia 20 listopada 2023 r.
 
 
-# Useful Words and Phrases
+## Useful Words and Phrases
+
 * Parliamentary inquiry
 * Parliamentary hearing
 * Pegasus probe
