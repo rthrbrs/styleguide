@@ -4,13 +4,19 @@ title: Translating from Polish
 
 ## adiunkt
 
+## dramatyczny
+
 ## kamienica
 
 Do not translate _kamienica_ as _tenement_ or _tenement house_ unless you intend to emphasize the decrepit state of the building. Tenement has almost universally negative connotations in English (outside Scotland). With no direct equivalent available, simply translate _tenement_ as **building** or **residential building**.
 
+## kancelaria
+
 ## kierunek
 
 ## na terytorium
+
+## obiekt
 
 ## ojczyzna
 

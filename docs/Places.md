@@ -1,4 +1,6 @@
-# Place Names
+---
+title: Places
+---
 
 The following style guide standardizes the use of place names in spoken English, on-screen graphics, and written English published on the TVP World website.
 

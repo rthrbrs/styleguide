@@ -1,5 +1,5 @@
 ---
-title: Titles
+title: People
 ---
 ## General Guidelines
 
@@ -366,4 +366,6 @@ Note that the title of cardinal is traditionally placed between the first name a
     Blase Cardinal Cupich  
     Archbishop of Chicago
 
+## Nobility
 
+Hereditary titles and noble ranks of guests and speakers should not be mentioned in chyrons unless they are directly relevant to the interview or story. Anchors may use honorifics when welcoming a guest, if they wish, but noble titles should otherwise be avoided on the air. 
