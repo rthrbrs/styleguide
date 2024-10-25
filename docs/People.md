@@ -336,7 +336,7 @@ In English media, academic titles are used less frequently than in Poland. If a 
 
 ## Clergy
 
-Names of clergymen and women should be preceded by the person’s title (Father, Reverend, Rabbi, Sister) and, where applicable, followed by the abbreviation of their religious congregation (OP, SJ, OSF, etc.). Roman Catholic and Eastern Orthodox priests are typically styled Father (Fr.), while Anglican/Episcopal priests and some Protestant ministers take the title Reverend (Rev.). If the ordained person holds a church office, it should be listed after the comma. In some cases, this will make the preceding title superfluous:
+Names of clergymen and women should be preceded by the person’s title (Father, Reverend, Rabbi, Sister) and, where applicable, followed by the abbreviation of their religious congregation (OP, SJ, OSF, etc.). Roman Catholic and Eastern Orthodox priests are typically styled Father (Fr.), while Anglican/Episcopal priests and some Protestant ministers take the title Reverend (Rev.). If the ordained person holds a church office, it should be listed in the second part of the namestrap. In some cases, this will make the preceding title superfluous:
 
 ???+ note "Examples"
     Fr. Mike Schmitz

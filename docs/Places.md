@@ -2,6 +2,19 @@
 
 The following style guide standardizes the use of place names in spoken English, on-screen graphics, and written English published on the TVP World website.
 
+## Location Strap Format
+
+With a [handful](Places.md#luxembourg) of [exceptions](Places.md#jerusalem), the chyron specifying a location consists of two elements: a place name (a town, city, region, or other geographic feature) and the country within which it is located.
+
+## When to Identify Locations
+
+Only use location straps when they are required to provide the viewer with essential context.  Always identify locations in live reports and LTTs. In other situations, it is up to the reporter and editor to decide whether this chyron is necessary.
+
+## Unknown, Unspecified, and Undisclosed Locations
+
+Do not identify locations that are unknown or very broad. For example, avoid location straps such as "At Sea," "Outer Space" or "Russia," as they provide little or no addition information while cluttering up the screen. 
+
+
 ## Official and Common Country Names
 
 When mentioning a country in a chyron, provide its common name rather than the official, longer one:
@@ -41,7 +54,7 @@ In the case of place names not originally written in the Latin script, default t
 
 A convenient starting point for researching unfamiliar or rarely encountered toponyms is OpenStreetMap's search engine, [Nominatim](https://nominatim.openstreetmap.org/), which typically provides proper English transcriptions of place names around the world.
 
-The choice of transcription can be fraught with political pitfalls. Choosing the wrong method of transcribing from one script into another can invite accusations of bias or even hostility. Be especially careful, for example, to transcribe Ukrainian toponyms in a manner that reflects the Ukrainian pronunciation and naming, rather than the outdated Russian/Soviet naming practices. See also: [Ukraine](ToponymsAndEthnonyms.md#ukraine).
+The choice of transcription can be fraught with political pitfalls. Choosing the wrong method of transcribing from one script into another can invite accusations of bias or even hostility. Be especially careful, for example, to transcribe Ukrainian toponyms in a manner that reflects the Ukrainian pronunciation and naming, rather than the outdated Russian/Soviet naming practices. See also: [Ukraine](Places.md#ukraine).
 
 !!! success "Correct"
 
@@ -65,13 +78,39 @@ A handful of countries have announced new official English names in recent years
 
 ## Azerbaijan
 
-Use **Azerbaijani** when referring to the Republic of Azerbaijan and its citizens. When discussing the Turkic ethnic group inhabiting northern Iran and Azerbaijan, use the adjective **Azeri**.
+Use **Azerbaijani** when referring to the Republic of Azerbaijan and its citizens. When discussing the Turkic ethnic group inhabiting northern Iran and Azerbaijan, use the adjective **Azeri**. See also: [Former Soviet Republics](Places.md#former-soviet-republics).
 
 ### Nagorno-Karabakh
 
 **[TO DO]**
 
+
+## Bosnia and Herzegovina
+
 ## Czech Republic
+
+## Israel and the Palestinian Territories
+
+**TODO**
+
+### Jerusalem
+
+To avoid perceptions of bias with regard to the status of the city of Jerusalem, which remains unresolved, identify this location simply as **Jerusalem**, without mentioning the country.
+
+
+### Gaza Strip
+
+**TODO**
+
+### West Bank
+
+For places located in the West Bank, including Israeli settlements, write **West Bank** in the second part of the location strap.
+
+???+ note "Example"
+    
+    Ramallah, West Bank  
+    Maale Adumim, West Bank
+
 
 ## Kosovo
 
@@ -84,6 +123,14 @@ Citizens of Kosovo may be referred to as **Kosovar** or **Kosovan**. The adjecti
 ## Luxembourg
 
 In chyrons, identify this location simply as Luxembourg.
+
+## Monaco
+
+In chyrons, identify this location simply as Monaco.
+
+## North Macedonia
+
+**TODO**
 
 ## Norway
 
@@ -138,11 +185,21 @@ Use **Serb** to refer to a person of Serbian ethnicity, including people living 
 
 Use **Slovak** to refer to a person belonging the majority Slavic ethnic group in Slovakia. When referring to the country's language, government, institutions, or citizens (not all of whom are Slovak), use the word **Slovakian**.
 
+## Former Soviet Republics
+
+**TODO** 
+
+* avoid the label "former Soviet Republic" unless absolutely necessary for context
+* avoid translating specific administrative units such as _oblasts_
+* do not transliterate place names based on the Russian spelling
+
 ## Turkey
+
+**TODO**
 
 ## Ukraine
 
-As mentioned [above](ToponymsAndEthnonyms.md#spelling-of-place-names), avoid the use of Russian and Soviet-Era names such as "Kiev" and "the Ukraine."
+As mentioned [above](Places.md#spelling-of-place-names), avoid the use of Russian and Soviet-Era names such as "Kiev" and "the Ukraine."
 
 ### Chernobyl
 
@@ -155,6 +212,8 @@ The city formerly known as Dnipropetrovsk is called **Dnipro**, as is the river 
 ### Oblasts
 
 Do not refer to _oblasts_ unless it is absolutely necessary (e.g., on a map or graph). Use **region** instead.
+
+See also: [Former Soviet Republics](Places.md#former-soviet-republics).
 
 ## United Kingdom
 

@@ -139,7 +139,7 @@ Minister for Civil Society
 
 Avoid referring to the lower house of parliament as _the Sejm_ without providing further explanation. Where possible, use the term _Parliament_; if it is necessary to specify the chamber, use the descriptor _lower house of Parliament_ or _the (Polish) Senate_.
 
-### Sejm
+### _Sejm_
 
 **Szymon Hołownia**  
 Speaker
@@ -159,23 +159,20 @@ Deputy Speaker
 **Piotr Zgorzelski**  
 Deputy Speaker
 
-## Parties
+## Parties and Coalitions
 
-### United Right
-* Law and Justice
-* Sovereign Poland
-
-### Civic Coalition
-* Civic Platform
-
-### The Left
-* New Left
-* Left Together
-
-### Poland 2050
-### Third Way
-### Confederation
-### Kukiz'15
+* United Right
+    * Law and Justice
+    * Sovereign Poland
+* Civic Coalition
+    * Civic Platform
+* The Left
+    * New Left
+    * Left Together
+* Poland 2050
+* Third Way
+* Confederation
+* Kukiz'15
 
 ## Government and Public Institutions
 
@@ -199,6 +196,9 @@ Prokurator Krajowy
 
 **National Security Bureau**  
 Biuro Bezpieczeństwa Narodowego
+
+**National Security Council**  
+Rada Bezpieczeństwa Narodowego
 
 **Polish Security Printing Works**  
 Polska Wytwórnia Papierów Wartościowych
@@ -224,32 +224,6 @@ Kancelaria Prezydenta
 ???+ "note"
     Refer to UOKiK by its Polish abbreviation. The office may be described as Poland's antitrust and consumer protection watchdog.
 
-
-### National Security Council
-
-The National Security Council is an advisory body that provides the President of the Republic of Poland with necessary expert knowledge, advice, and recommendations about any and all matters related to Poland's internal and external security. 
-
-Please remember to call it the _Polish_ National Security Council, or else you risk confusing the viewer about which NSC you are talking about (the U.S. one is in particularly widespread use in international news).
-
-The NSC includes: 
-
-* Prime Minister
-* Speakers of both houses of Parliament
-* Minister of Defense
-* Minister of Internal Affairs and Administration 
-* Minister of Foreign Affairs 
-* Security Services Coordinator 
-* Ranking members of political organizations with parliamentary clubs, MP clubs, other MP formations; or presidents of said clubs or formations; or any MP, Senator, or MEP designated by the president of a parliamentary club, MP club, or another MP formation (oryg: Szefowie ugrupowań politycznych posiadających klub parlamentarny, klub poselski lub koło poselskie albo przewodniczący tych klubów lub kół, albo osoba wskazana przez przewodniczącego klubu parlamentarnego, klubu poselskiego lub koła poselskiego spośród posłów, senatorów lub posłów do Parlamentu Europejskiego)
-* Head of the Office of the President 
-* Director of the National Security Bureau
-
-???+ "NOTE"
-
-    **Rada Bezpieczeństwa Narodowego**  
-    National Security Council
-    
-    **Biuro Bezpieczeństwa Narodowego**  
-    National Security Bureau
 
 ## Other Institutions and Organizations
 

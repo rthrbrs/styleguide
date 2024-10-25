@@ -2,11 +2,11 @@ site_name: Style Guide
 site_url: https://rthrbrs.github.io/styleguide/
 nav:
   - Home: index.md
-  - People: titles.md
-  - Places: ToponymsAndEthnonyms.md
+  - People: People.md
+  - Places: Places.md
   - Numbers and Currencies: numbers.md
   - Polish Officials and Institutions: Poland.md
-  - Translating from Polish: translating_from_Polish.md
+  - Translating from Polish: TranslatingFromPolish.md
   - Punctuation: Punctuation.md
   - Frequently (Mis)used Namestraps: Namestraps.md
   - NATO in Poland: NATO_PL.md
