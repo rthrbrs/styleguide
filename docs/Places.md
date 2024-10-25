@@ -14,7 +14,6 @@ Only use location straps when they are required to provide the viewer with essen
 
 Do not identify locations that are unknown or very broad. For example, avoid location straps such as "At Sea," "Outer Space" or "Russia," as they provide little or no addition information while cluttering up the screen. 
 
-
 ## Official and Common Country Names
 
 When mentioning a country in a chyron, provide its common name rather than the official, longer one:
@@ -50,7 +49,9 @@ If a location has a well-established English name, that name takes precedence ov
     * Reykjavik, Iceland
     * Istanbul, Turkey
 
-In the case of place names not originally written in the Latin script, default to the most commonly used Latin transcription.
+## Transcribing from Non-Latin Scripts
+
+In the case of place names not originally written in the Latin alphabet, default to the most commonly used transcription.
 
 A convenient starting point for researching unfamiliar or rarely encountered toponyms is OpenStreetMap's search engine, [Nominatim](https://nominatim.openstreetmap.org/), which typically provides proper English transcriptions of place names around the world.
 
