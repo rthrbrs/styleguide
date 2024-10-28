@@ -258,7 +258,7 @@ Urząd Stanu Cywilnego
 
 ## Other Terms
 
-**Shield East**  
+**East Shield**  
 Tarcza Wschód
 
 **European Green Deal**  
