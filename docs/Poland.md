@@ -238,6 +238,10 @@ Centralny Port Komunikacyjny (CPK)
     
     Our translation is subject to change if and when the CPK adopts an official English name. 
 
+**Commission to Investigate Russian and Belarusian Influence**  
+Komisja ds. badania wpływów rosyjskich i białoruskich  
+([See _committee_ vs. _commission_](TranslatingFromPolish.md#))
+
 **Military Aviation Works**  
 Wojskowe Zakłady Lotnicze
 
@@ -264,11 +268,11 @@ Tarcza Wschód
 **European Green Deal**  
 Europejski Zielony Ład
 
-**Rural Solidarity**  
-NSZZ Rolników Indywidualnych
-
 **National Recovery Plan**  
 Krajowy Program Odbudowy (KPO)
 
 **Polish National Lottery**  
 Totalizator Sportowy
+
+**Rural Solidarity**  
+NSZZ Rolników Indywidualnych

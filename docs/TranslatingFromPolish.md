@@ -14,6 +14,10 @@ Do not translate _kamienica_ as _tenement_ or _tenement house_ unless you intend
 
 ## kierunek
 
+## komisja
+
+TODO: _Committee_ vs. _commission_.
+
 ## na terytorium
 
 ## obiekt
