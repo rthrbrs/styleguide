@@ -38,6 +38,8 @@ When referring to the top official in a major Polish city, translate _prezydent_
 
 ## przedstawiciel
 
+_Przedstawiciel_ can be translated as _representative_ in certain contexts, but it is often used in Polish as a synonym of _członek_. In many cases, **member** will be a more accurate translation. 
+
 ## publicysta
 
 Translate _publicysta_ as **columnist** or **journalist**, not _publicist_, which is a false friend.
