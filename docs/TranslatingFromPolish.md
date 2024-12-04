@@ -24,6 +24,8 @@ TODO: _Committee_ vs. _commission_.
 
 ## ojczyzna
 
+Avoid the tempting calque _fatherland_ or _motherland_, both of which carry specific connotations beyond the Polish word _ojczyzna_. **Homeland** is often the preferable translation.
+
 ## pełnomocnik
 
 Avoid translating _pełnomocnik_ as _plenipotentiary_. While technically correct, the term is used much less frequently in English than it is in Polish. **Special government representative for …** is a better choice.
