@@ -6,13 +6,18 @@ title: Translating from Polish
 
 ## dramatyczny
 
+_Dramatic_ often fails to convey the intended meaning of _dramatyczny_, and can even come across as sarcastic. Consider alternative such as **serious**, **dire**, **grave**, **life-threatening**, **catastrophic**, or **disastrous**, depending on the context.
+
 ## kamienica
 
 Do not translate _kamienica_ as _tenement_ or _tenement house_ unless you intend to emphasize the decrepit state of the building. Tenement has almost universally negative connotations in English (outside Scotland). With no direct equivalent available, simply translate _tenement_ as **building**, **residential building**, or **apartment building**.
 
 ## kancelaria
 
+Avoid translating _kancelaria_ (_Kancelaria Premiera_, _Kancelaria Prezydenta_) as _chancellery_ in contexts where **office** is sufficient. _Chancellery_ is rarely used in English-language news, outside of references to the office of the [German Chancellor](https://en.wikipedia.org/wiki/German_Chancellery). 
+
 ## kierunek
+
 
 ## komisja
 
