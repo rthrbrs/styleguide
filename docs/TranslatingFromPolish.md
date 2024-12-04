@@ -63,4 +63,4 @@ Wherever possible, avoid translating the title _sekretarz stanu_ and _podsekreta
 
 ## zawiadomienie do prokuratury
 
-TODO
+Avoid using this phrase entirely; _notified the prosecution_ and other translations invariably refer to a legal process with which most foreign audiences are unfamiliar.
