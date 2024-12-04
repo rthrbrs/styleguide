@@ -8,7 +8,7 @@ title: Translating from Polish
 
 ## kamienica
 
-Do not translate _kamienica_ as _tenement_ or _tenement house_ unless you intend to emphasize the decrepit state of the building. Tenement has almost universally negative connotations in English (outside Scotland). With no direct equivalent available, simply translate _tenement_ as **building** or **residential building**.
+Do not translate _kamienica_ as _tenement_ or _tenement house_ unless you intend to emphasize the decrepit state of the building. Tenement has almost universally negative connotations in English (outside Scotland). With no direct equivalent available, simply translate _tenement_ as **building**, **residential building**, or **apartment building**.
 
 ## kancelaria
 
@@ -16,9 +16,13 @@ Do not translate _kamienica_ as _tenement_ or _tenement house_ unless you intend
 
 ## komisja
 
+The Polish _komisja_ can 
+
 TODO: _Committee_ vs. _commission_.
 
 ## na terytorium
+
+_On the territory of_ is a frequent mistranslation of _na terytorium_, especially in news copy translated from Polish, Russian, and Ukrainian. A simple **in** will usually suffice. **On \[Ukrainian\] soil** may also be used in more formal contexts, such as translations of official statements.  
 
 ## obiekt
 
@@ -30,7 +34,7 @@ Avoid the tempting calque _fatherland_ or _motherland_, both of which carry spec
 
 ## pełnomocnik
 
-Avoid translating _pełnomocnik_ as _plenipotentiary_. While technically correct, the term is used much less frequently in English than it is in Polish. **Special government representative for …** is a better choice.
+Avoid translating _pełnomocnik_ as _plenipotentiary_. While technically correct, the term is used much less frequently in English than it is in Polish. **Special government representative for X** is a better choice.
 
 ???+ note "Example"
     Marcin Kierwiński  
@@ -53,3 +57,7 @@ Translate _publicysta_ as **columnist** or **journalist**, not _publicist_, whic
 Wherever possible, avoid translating the title _sekretarz stanu_ and _podsekretarz stanu_. **Deputy Minister** is more easily understood by foreign audiences, and is an accurate description of this position in the Polish political system,
 
 ## stan klęski żywiołowej, stan wyjątkowy
+
+## zawiadomienie do prokuratury
+
+TODO
