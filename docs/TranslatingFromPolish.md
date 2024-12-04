@@ -44,4 +44,6 @@ Translate _publicysta_ as **columnist** or **journalist**, not _publicist_, whic
 
 ## sekretarz stanu
 
+Wherever possible, avoid translating the title _sekretarz stanu_ and _podsekretarz stanu_. **Deputy Minister** is more easily understood by foreign audiences, and is an accurate description of this position in the Polish political system,
+
 ## stan klęski żywiołowej, stan wyjątkowy
