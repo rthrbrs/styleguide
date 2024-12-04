@@ -22,6 +22,8 @@ TODO: _Committee_ vs. _commission_.
 
 ## obiekt
 
+In military and architectural contexts, it is usually incorrect to translate the Polish word _obiekt_ (or its Russian and Ukrainian counterparts, _объект_ and _об'єкт_) as _object_. **Building** or **target** are often the right words here.  
+
 ## ojczyzna
 
 Avoid the tempting calque _fatherland_ or _motherland_, both of which carry specific connotations beyond the Polish word _ojczyzna_. **Homeland** is often the preferable translation.
