@@ -93,7 +93,7 @@ Minister of Sport and Tourism
 Minister of Education
 
 **Katarzyna Pełczyńska-Nałęcz**  
-Minister of Funds and Regional Policy	
+Minister of Development Funds and Regional Policy	
 
 **Czesław Siekierski**  
 Minister of Agriculture and Rural Development	
