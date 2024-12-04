@@ -16,9 +16,7 @@ Do not translate _kamienica_ as _tenement_ or _tenement house_ unless you intend
 
 ## komisja
 
-The Polish _komisja_ can 
-
-TODO: _Committee_ vs. _commission_.
+The Polish word _komisja_ is used to describe a range of bodies that have two distinct names in English: **committee** and **commission**. In government, a **committee** usually comprises a group of legislators assembled to make a decision or produce a document such as a report. A **commission** is a body entrusted by the government to carry out a specific task. There is some overlap between the two terms. Which word to use when translating _komisja_ has to be determined on case-by-case basis. See [Polish Committees and Commissions](Committees.md).
 
 ## na terytorium
 
