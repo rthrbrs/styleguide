@@ -55,11 +55,16 @@ _Przedstawiciel_ can be translated as _representative_ in certain contexts, but 
 
 Translate _publicysta_ as **columnist** or **journalist**, not _publicist_, which is a false friend.
 
+## Rada Ministrów
+
 ## sekretarz stanu
 
 Wherever possible, avoid translating the title _sekretarz stanu_ and _podsekretarz stanu_. **Deputy Minister** is more easily understood by foreign audiences, and is an accurate description of this position in the Polish political system,
 
 ## stan klęski żywiołowej, stan wyjątkowy
+
+Polish law draws a distinction between _stan klęski żywiołowej_ and _stan wyjątkowy_, but attempting to convey this difference in English is more likely to confuse our audience than inform them. Translate both as **state of emergency** unless specifically referring to the difference between the two.
+
 
 ## zawiadomienie do prokuratury
 
