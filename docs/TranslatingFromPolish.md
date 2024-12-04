@@ -4,6 +4,8 @@ title: Translating from Polish
 
 ## adiunkt
 
+Translate _adiunkt_ as **assistant professor**, not _adjunct professor_, a false friend.
+
 ## dramatyczny
 
 _Dramatic_ often fails to convey the intended meaning of _dramatyczny_, and can even come across as sarcastic. Consider alternative such as **serious**, **dire**, **grave**, **life-threatening**, **catastrophic**, or **disastrous**, depending on the context.
