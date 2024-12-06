@@ -303,6 +303,7 @@ In namestraps, provided the title used by person, with no additional information
 ???+ note "Examples"
     * UN Secretary-General  
     * NATO Secretary General
+    * OSCE Secretary General
 
 ## Military Leaders
 
