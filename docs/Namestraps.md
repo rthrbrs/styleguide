@@ -11,5 +11,5 @@ President of Turkey
 **Viktor Orbán**  
 Hungarian Prime Minister
 
-**Feridun Sinirlioğlu**
+**Feridun Sinirlioğlu**  
 OSCE Secretary General
