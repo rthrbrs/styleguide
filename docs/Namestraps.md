@@ -6,6 +6,7 @@ title: Frequently (Mis)used Namestraps
 Exiled Belarusian Opposition Leader
 
 **Recep Tayyip Erdoğan**  
+**RECEP TAYYİP ERDOĞAN**  
 President of Turkey
 
 **Viktor Orbán**  

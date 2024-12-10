@@ -9,7 +9,6 @@ Let's listen
 Let's hear what they had to say
 
 
-
 Meanwhile
 
 Switching gears
