@@ -1,4 +1,4 @@
-site_name: Style Guide
+site_name: TVP World Style Guide
 site_url: https://rthrbrs.github.io/styleguide/
 nav:
   - Home: index.md
@@ -24,3 +24,6 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+
+extra_css:
+  - stylesheets/extra.css

@@ -2,8 +2,8 @@
 title: Frequently (Mis)used Namestraps
 ---
 
-**Sviatlana Tsikhanouskaya**  
-Exiled Belarusian Opposition Leader
+**Josep Borrell**  
+EU High Representative for Foreign Affairs and Security Policy
 
 **Recep Tayyip Erdoğan**  
 **RECEP TAYYİP ERDOĞAN**  
@@ -14,3 +14,6 @@ Hungarian Prime Minister
 
 **Feridun Sinirlioğlu**  
 OSCE Secretary General
+
+**Sviatlana Tsikhanouskaya**  
+Exiled Belarusian Opposition Leader
