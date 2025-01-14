@@ -186,7 +186,7 @@ Use **Serb** to refer to a person of Serbian ethnicity, including people living 
 
 ## Slovakia
 
-Use **Slovak** to refer to a person belonging the majority Slavic ethnic group in Slovakia. When referring to the country's language, government, institutions, or citizens (not all of whom are Slovak), use the word **Slovakian**.
+Use **Slovak** to refer to a person belonging the majority Slavic ethnic group in Slovakia or the Slovak language. When referring to the country's government, institutions, or citizens (not all of whom are Slovak), use the word **Slovakian**.
 
 ## Former Soviet Republics
 
