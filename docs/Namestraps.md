@@ -18,5 +18,5 @@ OSCE Secretary General
 **Sviatlana Tsikhanouskaya**  
 Exiled Belarusian Opposition Leader
 
-**Mateusz Morawiecki**
+**Mateusz Morawiecki**  
 President, European Conservatives and Reformists
