@@ -152,8 +152,8 @@ As a general rule, spell place names in Poland as you would in Polish. Exception
 
 If at all possible, do not burden the viewer with the minutiae of the Polish local government system. It is often preferable to discuss "local officials" or "regional authorities" than to provide the precise equivalent of a particular rung on the local government ladder. If the specific administrative unit must be mentioned (e.g., on a map or graph), use the following:
 
-**voivodeship**  
-województwo
+**województwo**  
+voivodeship
 
 **powiat**  
 county
